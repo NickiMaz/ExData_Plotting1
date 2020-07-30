@@ -1,5 +1,5 @@
 #make_data function
-
+#
 #This function make final complete data set
 #which used in graphic analisys
 
